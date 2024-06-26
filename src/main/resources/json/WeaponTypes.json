@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "type": "Ranged"
+  },
+  {
+    "id": 2,
+    "type": "Melee"
+  },
+  {
+    "id": 3,
+    "type": "Explosive"
+  }
+]

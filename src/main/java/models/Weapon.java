@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @Builder
 @Entity
-public class WeaponModel {
+public class Weapon {
 
     @Id
     private int id;

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "type": "Ranged",
+    "subType": "Assault Rifle"
+  },
+  {
+    "id": 2,
+    "type": "Ranged",
+    "subType": "Pistol"
+  },
+  {
+    "id": 3,
+    "type": "Ranged",
+    "subType": "Shotgun"
+  },
+  {
+    "id": 4,
+    "type": "Ranged",
+    "subType": "Sniper Rifle"
+  },
+  {
+    "id": 5,
+    "type": "Ranged",
+    "subType": "Sub Machine Gun"
+  }
+]
