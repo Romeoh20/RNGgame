@@ -1,11 +1,18 @@
 package services;
 
-import models.Weapon;
+import models.AbstractWeapon;
 
 public class WeaponServiceImpl implements WeaponService{
 
+
+
     @Override
-    public Weapon generateWeapon() {
+    public AbstractWeapon generateWeapon() {
+
+
+
+
+
         return null;
     }
 }

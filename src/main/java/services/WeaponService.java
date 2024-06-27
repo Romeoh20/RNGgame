@@ -1,8 +1,8 @@
 package services;
 
-import models.Weapon;
+import models.AbstractWeapon;
 
 public interface WeaponService {
 
-    public Weapon generateWeapon();
+    public AbstractWeapon generateWeapon();
 }
