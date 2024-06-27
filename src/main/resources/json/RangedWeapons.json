@@ -1,0 +1,43 @@
+[
+  {
+    "id": 101,
+    "subtype": "Assault Rifle",
+    "name": "AK-47"
+  },
+  {
+    "id": 102,
+    "subtype": "Assault Rifle",
+    "name": "M16"
+  },
+  {
+    "id": 103,
+    "subtype": "Pistol",
+    "name": "Desert Eagle"
+  },
+  {
+    "id": 104,
+    "subtype": "Pistol",
+    "name": "USP45"
+  },
+  {
+    "id": 105,
+    "subtype": "Shotgun",
+    "name": "Spas-12"
+  },
+  {
+    "id": 106,
+    "subtype": "Shotgun",
+    "name": "AA12"
+  },
+  {
+    "id": 107,
+    "subtype": "Sniper Rifle",
+    "name": "Intervention"
+  },
+  {
+    "id": 108,
+    "subtype": "Sniper Rifle",
+    "name": "Barret 50 Cal."
+  }
+
+]

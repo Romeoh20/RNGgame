@@ -17,6 +17,8 @@ public abstract class AbstractWeapon {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
+    private String prefix;
+    private String name;
     private String type;
     private String subType;
     private String level;
