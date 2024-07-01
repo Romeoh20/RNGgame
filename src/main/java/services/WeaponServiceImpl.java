@@ -5,10 +5,14 @@ import models.RangedWeapon;
 
 public class WeaponServiceImpl implements WeaponService{
 
-
-
     @Override
-    public RangedWeapon generateRangedWeapon() {
+    public RangedWeapon generateWeapon() {
+
+
+
+
+
+
         return null;
     }
 }

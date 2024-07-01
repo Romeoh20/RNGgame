@@ -1,0 +1,38 @@
+[
+  {
+    "id": 201,
+    "type": "melee",
+    "subType": "one handed",
+    "name": "Bowie Knife"
+  },
+  {
+    "id": 202,
+    "type": "melee",
+    "subType": "one handed",
+    "name": "Stick"
+  },
+  {
+    "id": 203,
+    "type": "melee",
+    "subType": "one handed",
+    "name": "Venus Flytrap"
+  },
+  {
+    "id": 204,
+    "type": "melee",
+    "subType": "two handed",
+    "name": "Baseball Bat"
+  },
+  {
+    "id": 205,
+    "type": "melee",
+    "subType": "two handed",
+    "name": "Sledgehammer"
+  },
+  {
+    "id": 206,
+    "type": "melee",
+    "subType": "two handed",
+    "name": "Chair"
+  }
+]

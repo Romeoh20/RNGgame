@@ -5,6 +5,6 @@ import models.RangedWeapon;
 
 public interface WeaponService {
 
-    public RangedWeapon generateRangedWeapon();
+    public RangedWeapon generateWeapon();
 
 }

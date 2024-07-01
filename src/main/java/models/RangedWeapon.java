@@ -2,8 +2,8 @@ package models;
 
 import jakarta.persistence.Entity;
 
-@Entity
-public class RangedWeapon extends AbstractWeapon {
+
+public class RangedWeapon {
 
     private String optic;
     private String barrel;
