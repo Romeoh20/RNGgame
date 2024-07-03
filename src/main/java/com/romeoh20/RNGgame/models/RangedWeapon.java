@@ -1,4 +1,4 @@
-package models;
+package com.romeoh20.RNGgame.models;
 
 import jakarta.persistence.Entity;
 

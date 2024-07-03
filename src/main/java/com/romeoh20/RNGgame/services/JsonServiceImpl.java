@@ -1,7 +1,7 @@
-package services;
+package com.romeoh20.RNGgame.services;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import models.jsonObjects.RangedWeapon;
+import com.romeoh20.RNGgame.models.jsonObjects.RangedWeapon;
 
 import java.io.File;
 import java.io.IOException;

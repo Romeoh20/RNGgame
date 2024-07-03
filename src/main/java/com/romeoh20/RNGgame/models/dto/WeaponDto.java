@@ -1,4 +1,4 @@
-package models.dto;
+package com.romeoh20.RNGgame.models.dto;
 
 public class WeaponDto {
 

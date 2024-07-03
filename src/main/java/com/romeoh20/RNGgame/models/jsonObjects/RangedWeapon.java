@@ -1,4 +1,4 @@
-package models.jsonObjects;
+package com.romeoh20.RNGgame.models.jsonObjects;
 
 import lombok.Data;
 

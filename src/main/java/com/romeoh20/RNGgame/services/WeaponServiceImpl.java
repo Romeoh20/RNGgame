@@ -1,7 +1,6 @@
-package services;
+package com.romeoh20.RNGgame.services;
 
-import models.AbstractWeapon;
-import models.RangedWeapon;
+import com.romeoh20.RNGgame.models.RangedWeapon;
 
 public class WeaponServiceImpl implements WeaponService{
 

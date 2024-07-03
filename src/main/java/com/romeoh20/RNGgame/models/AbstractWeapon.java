@@ -1,4 +1,4 @@
-package models;
+package com.romeoh20.RNGgame.models;
 
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -22,3 +22,4 @@ public abstract class AbstractWeapon {
     private int statusEffectChance;
 
 }
+
